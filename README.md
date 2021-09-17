@@ -19,7 +19,7 @@ Laptop OMEN by HP  15-dc1060tx
 macOS big sur 11.5  
 working apple id login*\*: apple store, icloud, apple music  
 WIFI/BT card: connectivity features like handoff, airdrop, sidecar  
-Hardware acceleration
+Hardware acceleration  
 CPU power optimization: CPU friend &amp; CPU friendfriend  
 HiDPI**\*: Using RDM 1440 * 810 144Hz on 1080p screen  
 Trackpad &amp; buttons: Rebulid VoodooPS2controller.kext  
