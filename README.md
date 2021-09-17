@@ -32,4 +32,8 @@ USBPorts**\*\*: made USBPorts.kext using Hackintool
 ***: HiDPI file is not included in this repo. Pls google.  
 ****: USBPorts.kext are made with my specs. Pls use with caution because my BT port is not the same with the original port after BT card switch.
 
+# Curruent Problem
+
+Poor performance every time on fresh boot. After a sleep-wake, performance is back up.
+
 ## HAPPY HACKINTOSHING!
