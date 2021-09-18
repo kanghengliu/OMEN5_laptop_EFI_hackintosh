@@ -34,6 +34,6 @@ USBPorts**\*\*: made USBPorts.kext using Hackintool
 
 # Curruent Problem
 
-Poor performance every time on fresh boot. After a sleep-wake, performance is back up.
+~~Poor performance every time on fresh boot. After a sleep-wake, performance is back up.~~ Fixed by rebuilding SSDTs.
 
 ## HAPPY HACKINTOSHING!
